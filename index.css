@@ -1,0 +1,24 @@
+#title{
+    color:blue
+  }
+h1 {
+	color: red;
+	font-family: roboto;
+	text-align: center;
+}
+#blue-bordered {
+    border: 5px dashed blue;
+}
+.text{
+    color: #15c50f;
+}
+.section2{
+    background-color: antiquewhite;
+}
+.section1{
+    background-image :url("t1.jpg");
+    background-repeat: no-repeat;
+background-size: cover;
+width: 100%;
+height: 400px;
+}
